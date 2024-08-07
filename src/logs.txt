@@ -1,0 +1,8 @@
+2024-08-01,INFO,Application started
+2024-08-01,ERROR,Null pointer exception
+2024-08-01,INFO,User logged in
+2024-08-01,ERROR,Database connection failed
+2024-08-02,INFO,User logged out
+2024-08-02,INFO,Application stopped
+2024-08-02,WARN,Low disk space
+2024-08-02,ERROR,File not found
